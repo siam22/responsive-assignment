@@ -1,0 +1,34 @@
+.container {
+    padding-top: 20px;
+    padding-bottom: 20p;
+    height: 700px;   
+}
+.button {
+    background-color: rebeccapurple;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.orange {
+    color: orangered;
+}
+.col-md-5 {
+    padding-top: 70px;
+    font-size: larger;
+    font-weight: 400px;
+}
+
+.logo-image img {  
+    width: 38%;
+}
+.signature-place {
+  
+}
+.signature-place img {
+    width: 75%;
+}
+.navbar {
+    margin-top: -67px;
+    padding-right: 30px;
+}
+
