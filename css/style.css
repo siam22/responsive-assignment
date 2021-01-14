@@ -1,9 +1,12 @@
+main {
+    width: 1400px;
+    max-width: 90%;
+}
 .body {
     font-family: 'Bebas Neue', cursive;
 }
 .primary {
     background-color:papayawhip;
-    width: fit-content;
 }
 .container {
     padding-top: 20px;
@@ -43,17 +46,24 @@
 }
 .third-section {
     height: 600px;
-    padding-top: 120px;
+    padding-top: 100px;
 }
 .card-shoe {
-    border-radius: 15px;
+    border-radius: 25px;
     border: 0;
     padding-bottom: 20px;
 }
 .card-shoe img {
     background-color: whitesmoke;
+    border-radius: 25px;
+    height: 400px;
     padding: 20px;
     width: 100%;
+}
+.formal-shoe {
+    border-radius: 15px;
+    border: 0;
+    padding-bottom: 20px;
 }
 .col-md-4 img {
     width: 50%;
@@ -65,7 +75,16 @@
     border-radius: 15px;
     background-color: white;
 }
-.last-section {
-    height: 600px;
-    padding-top: 50px;
+.support-section {
+    border-radius: 15px;
+    border: 0;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.container-last {
+    color: thistle;
+    background-color:rgb(153, 99, 117); ;
+    padding-top: 20px;
+    padding-bottom: 20p;
+    height: 400px;
 }
