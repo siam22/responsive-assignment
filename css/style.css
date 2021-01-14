@@ -1,34 +1,71 @@
+.body {
+    font-family: 'Bebas Neue', cursive;
+}
+.primary {
+    background-color:papayawhip;
+    width: fit-content;
+}
 .container {
     padding-top: 20px;
     padding-bottom: 20p;
     height: 700px;   
 }
 .btn {
-    background-color: rebeccapurple;
-    color: white;
+    color:white;
+    font-size: 20px;
     padding: 10px 20px;
-    border-radius: 5px;
+    background-color:darkblue;
+    border-radius: 10px;
 }
 .orange {
     color: orangered;
 }
-.col-md-5 {
-    padding-top: 70px;
-    font-size: larger;
-    font-weight: 400px;
+.shoe-section {
+    padding-top: 50px;
 }
-
-.logo-image img {  
-    width: 38%;
+.col {
+    padding-top: 30px;
 }
-.signature-place {
-  
+.navbar-brand img {  
+    width: 58%;
+}
+.btn img {
+    width: 20%;
 }
 .signature-place img {
-    width: 75%;
+    width: 85%;
 }
-.navbar {
-    margin-top: -67px;
-    padding-right: 30px;
+.third-section img {
+    width: 100%;
 }
-
+.money {
+    color: green;
+}
+.third-section {
+    height: 600px;
+    padding-top: 120px;
+}
+.card-shoe {
+    border-radius: 15px;
+    border: 0;
+    padding-bottom: 20px;
+}
+.card-shoe img {
+    background-color: whitesmoke;
+    padding: 20px;
+    width: 100%;
+}
+.col-md-4 img {
+    width: 50%;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.shoe-card-footer {
+    border-top: 0;
+    border-radius: 15px;
+    background-color: white;
+}
+.last-section {
+    height: 600px;
+    padding-top: 50px;
+}
